@@ -1,4 +1,4 @@
-pen---
+---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "The Jackson Laboratory for Genomic Medicine"
@@ -184,7 +184,7 @@ eventbrite: 51271118295
 
 <div class="row">
 <div class="col-md-6">
-<h3>Thursday, June 14</h3>
+<h3>Wednesday, January 30</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/">Workshop Overview</a></td> </tr>
 <tr> <td>09:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/01-run-quit/">Running and Quitting</a></td> </tr>
@@ -202,21 +202,15 @@ eventbrite: 51271118295
 </table>
 </div>
 <div class="col-md-6">
-<h3>Friday, June 15</h3>
+<h3>Thursday, January 31</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>
 <tr> <td>09:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/12-for-loops/">For Loops</a></td> </tr>
 <tr> <td>10:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/13-looping-data-sets/">Looping Over Data Sets</a> </td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
 <tr> <td>11:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/14-writing-functions/">Writing Functions</a> </td> </tr>
-<tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/15-scope/">Variable Scope</a></td> </tr>
-<tr> <td>13:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/17-conditionals/">Conditionals</a></td> </tr>
-<tr> <td>14:30</td>  <td>Coffee</td> </tr>
-<tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/18-style/">Programming Style
-</a></td> </tr>
-<tr> <td>15:15</td>  <td>Wrap-up</td> </tr>
-<tr> <td>15:30</td>  <td>End</td> </tr>
+<tr> <td>12:15</td>  <td>Wrap-up</td> </tr>
+<tr> <td>12:30</td>  <td>End</td> </tr>
 </table>
 </div>
 </div>
