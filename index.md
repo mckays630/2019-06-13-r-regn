@@ -2,10 +2,10 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "The Jackson Laboratory for Genomic Medicine"
-address: "10 Discovery Drive, Farmington, Connecticut"
+address: "Holt Conference Rooms 1405 & 1410, 10 Discovery Drive, Farmington, Connecticut"
 country: "us"
 language: "en"
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "41.732190,-72.793431"
 humandate: "Jan 30-31, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-01-30
