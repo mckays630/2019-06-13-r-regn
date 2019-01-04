@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "The Jackson Laboratory for Genomic Medicine"
-address: "Holt Conference Rooms 1405 & 1410, 10 Discovery Drive, Farmington, Connecticut"
+venue: "Plotting and Programming with Python"
+address: "The Jackson Laboratory for Genomic Medicine, Holt Conference Rooms 1405 & 1410, 10 Discovery Drive, Farmington, Connecticut"
 country: "us"
 language: "en"
 latlng: "41.732190,-72.793431"
