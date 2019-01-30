@@ -10,8 +10,8 @@ humandate: "Jan 30-31, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-01-30
 enddate: 2019-01-31
-instructor: ["Sheldon McKay", "Sue McClatchy", "David McKenzie", "Sandeep Namburi"]
-helper: ["Samir Amin", "Pariksheet Nanda"]
+instructor: ["Sheldon McKay", "Sue McClatchy", "David McKenzie", "Sandeep Namburi", "Pariksheet Nanda"]
+helper: ["Samir Amin", "Ravi Pandey"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: https://pad.carpentries.org/2019-01-30-python-ct
 eventbrite: 51271118295
