@@ -10,11 +10,10 @@ humandate: "Jan 30-31, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-01-30
 enddate: 2019-01-31
-instructor: ["Sheldon McKay", "Sue McClatchy", "David McKenzie", "Sandeep Namburi", "Pariksheet Nanda"]
-helper: ["Samir Amin", "Ravi Pandey"]
-email: ["susan.mcclatchy@jax.org"]
+instructor: ["Sheldon McKay", "Pariksheet Nanda"]
+helper: ["TBA"]
+email: ["sheldon.mckay@regeneron.com"]
 collaborative_notes: https://pad.carpentries.org/2019-01-30-python-ct
-eventbrite: 51271118295
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
