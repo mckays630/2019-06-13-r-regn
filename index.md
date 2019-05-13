@@ -184,45 +184,45 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 <h2 id="schedule">Schedule</h2>
 
 <div class="row">
-<div class="col-md-6">
-<h3>Thursday, June 13</h3>
-<table class="table table-striped">
-<tr> <td>9:00</td> <td>Workshop overview</td></tr>
-<tr> <td>9:15</td> <td>Introduction to the unix shell</td></tr>
-<tr> <td>10:30</td>  <td>Coffee</td> </tr>
-<tr> <td>10:45</td> <td>Introduction to the unix shell (Cont'd)</td></tr>
-<tr> <td>11:30</td><td>Best practices for programming at Regeneron</td>
-<tr> <td>12:00</td><td>Lunch</td>
-<tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/">Workshop Overview</a></td> </tr>
-<tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/01-run-quit/">Running and Quitting</a></td> </tr>
-<tr> <td>13:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/02-variables/">Variables and Assignment</a></td> </tr>
-<tr> <td>14:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/03-types-conversion/">Data Types and Type Conversion</a></td> </tr>
-<tr> <td>14:30</td>  <td>Coffee</td> </tr>
-<tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/04-built-in/">Built-in Functions and Help</a></td> </tr>
-<tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/06-libraries/">Libraries</a></td> </tr>
-<tr> <td>16:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/07-reading-tabular/">Reading Tabular into DataFrames</a></td></tr>
-<tr> <td>16:30</td>  <td>Wrap-up</td> </tr>
-</table>
-</div>
-<div class="col-md-6">
-<h3>Friday, June 14</h3>
-<table class="table table-striped">
-<tr> <td>9:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/08-data-frames/">Pandas DataFrames</a></td> </tr>
-<tr> <td>9:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/09-plotting/">Plotting</a></td> </tr>
-<tr> <td>10:30</td>  <td>Coffee</td> </tr>
-<tr> <td>10:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>
-<tr> <td>11:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/12-for-loops/">For Loops</a></td> </tr>
-<tr> <td>12:00</td>  <td>Lunch</td> </tr>
-<tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/13-looping-data-sets/">Looping Over Data Sets</a> </td> </tr>
-<tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/14-writing-functions/">Writing Functions</a> </td> </tr>
-<tr> <td>14:30</td>  <td>Coffee</td> </tr>
-<tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/15-scope/">Variable Scope</a> </td> </tr>
-<tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/17-conditionals/">Conditionals</a> </td> </tr>
-<tr> <td>15:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/18-style/">Programming Style</a> </td> </tr>
-<tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
-<tr> <td>16:30</td>  <td>End</td> </tr>
-</table>
-</div>
+  <div class="col-md-6">
+   <h3>Thursday, June 13</h3>
+     <table class="table table-striped">
+      <tr> <td>9:00</td> <td>Workshop overview</td></tr>
+      <tr> <td>9:15</td> <td>Introduction to the unix shell</td></tr>
+      <tr> <td>10:30</td>  <td>Coffee</td> </tr>
+      <tr> <td>10:45</td> <td>Introduction to the unix shell (Cont'd)</td></tr>
+      <tr> <td>11:30</td><td>Best practices for programming at Regeneron</td>
+      <tr> <td>12:00</td><td>Lunch</td>
+      <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/">Workshop Overview</a></td> </tr>
+      <tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/01-run-quit/">Running and Quitting</a></td> </tr>
+      <tr> <td>13:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/02-variables/">Variables and Assignment</a></td> </tr>
+      <tr> <td>14:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/03-types-conversion/">Data Types and Type Conversion</a></td> </tr>
+      <tr> <td>14:30</td>  <td>Coffee</td> </tr>
+      <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/04-built-in/">Built-in Functions and Help</a></td> </tr>
+      <tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/06-libraries/">Libraries</a></td> </tr>
+      <tr> <td>16:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/07-reading-tabular/">Reading Tabular into DataFrames</a></td></tr>
+      <tr> <td>16:30</td>  <td>Wrap-up</td> </tr>
+     </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Friday, June 14</h3>
+    <table class="table table-striped">
+      <tr> <td>9:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/08-data-frames/">Pandas DataFrames</a></td> </tr>
+      <tr> <td>9:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/09-plotting/">Plotting</a></td> </tr>
+      <tr> <td>10:30</td>  <td>Coffee</td> </tr>
+      <tr> <td>10:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>
+      <tr> <td>11:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/12-for-loops/">For Loops</a></td> </tr>
+      <tr> <td>12:00</td>  <td>Lunch</td> </tr>
+      <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/13-looping-data-sets/">Looping Over Data Sets</a> </td> </tr>
+      <tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/14-writing-functions/">Writing Functions</a> </td> </tr>
+      <tr> <td>14:30</td>  <td>Coffee</td> </tr>
+      <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/15-scope/">Variable Scope</a> </td> </tr>
+      <tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/17-conditionals/">Conditionals</a> </td> </tr>
+      <tr> <td>15:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/18-style/">Programming Style</a> </td> </tr>
+      <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>16:30</td>  <td>End</td> </tr>
+    </table>
+  </div>
 </div>
 
 {% comment %}
