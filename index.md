@@ -312,14 +312,13 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 <div id="python"> 
     <p>
       We will teach all sections of this workshop using the <a href="https://jupyter.org/">Jupyter notebook</a>,
-      a programming environment that runs in a web browser. For this to work you will need a reasonably
-      up-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all
+      a programming environment that runs in a web browser. 
+    <p>
+      The current versions of the Chrome, Safari and Firefox browsers are all
       <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
-      (some older browsers, including Internet Explorer version 9
-      and below, are not).
     </p>
 
     <p>
-    To access Jupyter notebook, point your browser to https://jupyterhub.regeneron.regn.com and log in with your regeneron credentials
+      To access Jupyter notebook, point your browser to <a href="https://jupyterhub.regeneron.regn.com">jupyterhub.regeneron.regn.com</a> and log in with your Regeneron credentials
     </p>
 </div> {% comment %} End of 'Python' section. {% endcomment %}
