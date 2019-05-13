@@ -184,14 +184,14 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 
 <div class="row">
   <div class="col-md-6">
-   <h3>Thursday, June 13 Sheldon</h3>
-     <table class="table table-striped">
+    <h3>Thursday, June 13 Sheldon</h3>
+    <table class="table table-striped">
       <tr> <td>9:00</td> <td>Workshop overview</td></tr>
       <tr> <td>9:15</td> <td>Introduction to the unix shell</td></tr>
-      <tr> <td>10:30</td>  <td>Coffee</td> </tr>
+      <tr> <td>10:30</td> <td>Coffee</td> </tr>
       <tr> <td>10:45</td> <td>Introduction to the unix shell (Cont'd)</td></tr>
-      <tr> <td>11:30</td><td>Best practices for programming at Regeneron</td>
-      <tr> <td>12:00</td><td>Lunch</td>
+      <tr> <td>11:30</td> <td>Best practices for programming at Regeneron</td></tr>
+      <tr> <td>12:00</td> <td>Lunch</td></tr>
       <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/">Workshop Overview</a></td> </tr>
       <tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/01-run-quit/">Running and Quitting</a></td> </tr>
       <tr> <td>13:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/02-variables/">Variables and Assignment</a></td> </tr>
@@ -201,7 +201,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
       <tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/06-libraries/">Libraries</a></td> </tr>
       <tr> <td>16:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/07-reading-tabular/">Reading Tabular into DataFrames</a></td></tr>
       <tr> <td>16:30</td>  <td>Wrap-up</td> </tr>
-     </table>
+    </table>
   </div>
   <div class="col-md-6">
     <h3>Friday, June 14</h3>
