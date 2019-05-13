@@ -293,32 +293,18 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
-
-<p>
-  To participate in a
-  {% if page.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif page.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif page.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to the software described below.
-  In addition, you will need an up-to-date web browser.
-</p>
-
-
 <div id="python"> 
-    <p>
+  <ul>
+    <li>
       We will teach all sections of this workshop using the <a href="https://jupyter.org/">Jupyter notebook</a>,
       a programming environment that runs in a web browser. 
-    <p>
+    </li>
+    <li>
       The current versions of the Chrome, Safari and Firefox browsers are all
       <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
-    </p>
-
-    <p>
+    </li>
+    <li>
       To access Jupyter notebook, point your browser to <a href="https://jupyterhub.regeneron.regn.com">jupyterhub.regeneron.regn.com</a> and log in with your Regeneron credentials
-    </p>
+    </li>
+  </ul>
 </div> {% comment %} End of 'Python' section. {% endcomment %}
