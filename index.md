@@ -113,9 +113,8 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
-  on. They should have a few specific software packages installed (listed
+  <strong>Requirements:</strong> Participants must bring a laptop with Chrome or Firefox installed.
+  Tablets,  Chromebook, etc. are not supported
   <a href="#setup">below</a>). They are also required to abide by
   {% if page.carpentry == "swc" %}
   Software Carpentry's
@@ -185,7 +184,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 
 <div class="row">
   <div class="col-md-6">
-   <h3>Thursday, June 13</h3>
+   <h3>Thursday, June 13 Sheldon</h3>
      <table class="table table-striped">
       <tr> <td>9:00</td> <td>Workshop overview</td></tr>
       <tr> <td>9:15</td> <td>Introduction to the unix shell</td></tr>
