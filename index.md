@@ -2,18 +2,18 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "Plotting and Programming with Python"
-address: "The Jackson Laboratory for Genomic Medicine, Holt Conference Rooms 1405 & 1410, 10 Discovery Drive, Farmington, Connecticut"
+address: "Regeneron, Tarrytown, NY"
 country: "us"
 language: "en"
-latlng: "41.732190,-72.793431"
-humandate: "Jan 30-31, 2019"
+latlng: #"41.732190,-72.793431"
+humandate: "June 13-14, 2019"
 humantime: "9:00 am - 4:30 pm"
-startdate: 2019-01-30
-enddate: 2019-01-31
+startdate: 2019-06-13
+enddate: 2019-06-14
 instructor: ["Sheldon McKay", "Pariksheet Nanda"]
 helper: ["TBA"]
 email: ["sheldon.mckay@regeneron.com"]
-collaborative_notes: https://pad.carpentries.org/2019-01-30-python-ct
+collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -179,45 +179,51 @@ collaborative_notes: https://pad.carpentries.org/2019-01-30-python-ct
 <hr/>
 
 
+<!--<tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>-->
+
 <h2 id="schedule">Schedule</h2>
 
 <div class="row">
 <div class="col-md-6">
-<h3>Wednesday, January 30</h3>
+<h3>Thursday, June 13</h3>
 <table class="table table-striped">
-<tr> <td>09:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/">Workshop Overview</a></td> </tr>
-<tr> <td>09:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/01-run-quit/">Running and Quitting</a></td> </tr>
-<tr> <td>09:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/02-variables/">Variables and Assignment</a></td> </tr>
-<tr> <td>10:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/03-types-conversion/">Data Types and Type Conversion</a></td> </tr>
+<tr> <td>9:00</td> <td>Workshop overview</td></tr>
+<tr> <td>9:15</td> <td>Introduction to the unix shell</td></tr>
 <tr> <td>10:30</td>  <td>Coffee</td> </tr>
-<tr> <td>10:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/04-built-in/">Built-in Functions and Help</a></td> </tr>
-<tr> <td>11:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/06-libraries/">Libraries</a></td> </tr>
-<tr> <td>12:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/07-reading-tabular/">Reading Tabular
-Data into DataFrames</a></td> </tr>
-<tr> <td>12:30</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/08-data-frames/">Pandas DataFrames</a></td> </tr>
-<tr> <td>14:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/09-plotting/">Plotting</a></td> </tr>
-<tr> <td>15:00</td>  <td>Coffee</td> </tr>
-<tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>
-<tr> <td>15:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/12-for-loops/">For Loops</a></td> </tr>
-<tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
+<tr> <td>10:45</td> <td>Introduction to the unix shell (Cont'd)</td></tr>
+<tr> <td>11:30</td><td>Best practices for programming at Regeneron</td>
+<tr> <td>12:00</td><td>Lunch</td>
+<tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/">Workshop Overview</a></td> </tr>
+<tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/01-run-quit/">Running and Quitting</a></td> </tr>
+<tr> <td>13:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/02-variables/">Variables and Assignment</a></td> </tr>
+<tr> <td>14:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/03-types-conversion/">Data Types and Type Conversion</a></td> </tr>
+<tr> <td>14:30</td>  <td>Coffee</td> </tr>
+<tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/04-built-in/">Built-in Functions and Help</a></td> </tr>
+<tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/06-libraries/">Libraries</a></td> </tr>
+<tr> <td>16:05</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/07-reading-tabular/">Reading Tabular into DataFrames</a></td></tr>
+<tr> <td>16:30</td>  <td>Wrap-up</td> </tr>
 </table>
 </div>
 <div class="col-md-6">
-<h3>Thursday, January 31</h3>
+<h3>Friday, June 14</h3>
 <table class="table table-striped">
-<tr> <td>09:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/13-looping-data-sets/">Looping Over Data Sets</a> </td> </tr>
-<tr> <td>09:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/14-writing-functions/">Writing Functions</a> </td> </tr>
+<tr> <td>9:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/08-data-frames/">Pandas DataFrames</a></td> </tr>
+<tr> <td>9:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/09-plotting/">Plotting</a></td> </tr>
 <tr> <td>10:30</td>  <td>Coffee</td> </tr>
-<tr> <td>10:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/15-scope/">Variable Scope</a> </td> </tr>
-<tr> <td>11:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/17-conditionals/">Conditionals</a> </td> </tr>
-<tr> <td>11:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/18-style/">Programming Style</a> </td> </tr>
-<tr> <td>12:15</td>  <td>Wrap-up</td> </tr>
-<tr> <td>12:30</td>  <td>End</td> </tr>
+<tr> <td>10:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>
+<tr> <td>11:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/12-for-loops/">For Loops</a></td> </tr>
+<tr> <td>12:00</td>  <td>Lunch</td> </tr>
+<tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/13-looping-data-sets/">Looping Over Data Sets</a> </td> </tr>
+<tr> <td>13:30</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/14-writing-functions/">Writing Functions</a> </td> </tr>
+<tr> <td>14:30</td>  <td>Coffee</td> </tr>
+<tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/15-scope/">Variable Scope</a> </td> </tr>
+<tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/17-conditionals/">Conditionals</a> </td> </tr>
+<tr> <td>15:45</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/18-style/">Programming Style</a> </td> </tr>
+<tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
+<tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
 </div>
-
 
 {% comment %}
   Collaborative Notes
@@ -302,99 +308,19 @@ Data into DataFrames</a></td> </tr>
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
-<p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
-  that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
-</p>
 
-<div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
-           the workshop will teach Python using something other than
-           the Jupyter notebook.
-           Details at https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility {% endcomment %}
-  <h3>Python</h3>
 
-  <p>
-    <a href="https://python.org">Python</a> is a popular language for
-    research computing, and great for general-purpose programming as
-    well.  Installing all of its research packages individually can be
-    a bit difficult, so we recommend
-    <a href="https://www.anaconda.com/distribution/">Anaconda</a>,
-    an all-in-one installer.
-  </p>
+<div id="python"> 
     <p>
-      Regardless of how you choose to install it,
-      <strong>please make sure you install Python version 3.x</strong>
-      (e.g., 3.6 is fine).
-    </p>
-    <p>
-      We will teach Python using the <a href="https://jupyter.org/">Jupyter notebook</a>,
+      We will teach all sections of this workshop using the <a href="https://jupyter.org/">Jupyter notebook</a>,
       a programming environment that runs in a web browser. For this to work you will need a reasonably
-      up-to-date browser. The current versions of the Chrome, Safari and
-      Firefox browsers are all
+      up-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all
       <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
       (some older browsers, including Internet Explorer version 9
       and below, are not).
     </p>
 
-  <div class="row">
-    <div class="col-md-4">
-      <h4 id="python-windows">Windows</h4>
-      <a href="https://www.youtube.com/watch?v=xxQ0mzZ8UvA">Video Tutorial</a>
-      <ol>
-        <li>Open <a href="https://www.anaconda.com/download/#windows">https://www.anaconda.com/download/#windows</a> with your web browser.</li>
-        <li>Download the Python 3 installer for Windows.</li>
-        <li>Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <strong>Add Anaconda to my PATH environment variable</strong>.</li>
-      </ol>
-    </div>
-    <div class="col-md-4">
-      <h4 id="python-macosx">macOS</h4>
-      <a href="https://www.youtube.com/watch?v=TcSAln46u9U">Video Tutorial</a>
-      <ol>
-        <li>Open <a href="https://www.anaconda.com/download/#macos">https://www.anaconda.com/download/#macos</a> with your web browser.</li>
-        <li>Download the Python 3 installer for OS X.</li>
-        <li>Install Python 3 using all of the defaults for installation.</li>
-      </ol>
-    </div>
-    <div class="col-md-4">
-      <h4 id="python-linux">Linux</h4>
-      <ol>
-        <li>Open <a href="https://www.anaconda.com/download/#linux">https://www.anaconda.com/download/#linux</a> with your web browser.</li>
-        <li>Download the Python 3 installer for Linux.<br>
-          (The installation requires using the shell. If you aren't
-           comfortable doing the installation yourself
-           stop here and request help at the workshop.)
-        </li>
-        <li>
-          Open a terminal window.
-        </li>
-        <li>
-          Type <pre>bash Anaconda3-</pre> and then press
-          <kbd>Tab</kbd>. The name of the file you just downloaded should
-          appear. If it does not, navigate to the folder where you
-          downloaded the file, for example with:
-          <pre>cd Downloads</pre>
-          Then, try again.
-        </li>
-        <li>
-          Press <kbd>Return</kbd>. You will follow the text-only prompts. To move through
-          the text, press <kbd>Spacebar</kbd>. Type <code>yes</code> and
-          press enter to approve the license. Press enter to approve the
-          default location for the files. Type <code>yes</code> and
-          press enter to prepend Anaconda to your <code>PATH</code>
-          (this makes the Anaconda distribution the default Python).
-        </li>
-        <li>
-          Close the terminal window.
-        </li>
-      </ol>
-    </div>
-  </div>
-{% comment %}
-  <p>
-  Once you are done installing the software listed above,
-  please go to <a href="setup/index.html">this page</a>,
-  which has instructions on how to test that everything was installed correctly.
-  </p>
-{% endcomment %}
+    <p>
+    To access Jupyter notebook, point your browser to https://jupyterhub.regeneron.regn.com and log in with your regeneron credentials
+    </p>
 </div> {% comment %} End of 'Python' section. {% endcomment %}
