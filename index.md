@@ -251,7 +251,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
       <li>Reading, transfroming and plotting data</li>
       <li>Creating and using functions</li>
       <li>Loops and conditionals</li>
-      <li><a href="{{site.swc_pages}}/r-novice-inflammation/reference">Reference...</a></li>
+      <li><a href="{{site.swc_pages}}/r-novice-gapminder/reference">Reference...</a></li>
     </ul>
   </div>
 </div>
