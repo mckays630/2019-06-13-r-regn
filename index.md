@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Plotting and Programming with Python"
+venue: "R for Reproducible Scientific Analysis"
 address: "Regeneron, Tarrytown, NY"
 country: "us"
 language: "en"
@@ -10,10 +10,10 @@ humandate: "June 13-14, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-06-13
 enddate: 2019-06-14
-instructor: ["Sheldon McKay", "Pariksheet Nanda"]
+instructor: ["Ravi Pandey", "Samir Amin"]
 helper: ["TBA"]
 email: ["sheldon.mckay@regeneron.com"]
-collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
+collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -113,17 +113,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with Chrome or Firefox installed.
-  Tablets,  Chromebook, etc. are not supported
-  <a href="#setup">below</a>). They are also required to abide by
-  {% if page.carpentry == "swc" %}
-  Software Carpentry's
-  {% elsif page.carpentry == "dc" %}
-  Data Carpentry's
-  {% elsif page.carpentry == "lc" %}
-  Library Carpentry's
-  {% endif %}
-  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
+  <strong>Requirements:</strong> Participants must bring a laptop with Chrome or Firefox installed. Tablets, Chromebook, etc. are not supported.
 </p>
 
 {% comment %}
@@ -238,41 +228,33 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-python-regn
 
 <hr/>
 
-{% comment %}
-  SYLLABUS
-
-  Show what topics will be covered.
-
-  1. If your workshop is R rather than Python, remove the comment
-     around that section and put a comment around the Python section.
-  2. Some workshops will delete SQL.
-  3. Please make sure the list of topics is synchronized with what you
-     intend to teach.
-  4. You may need to move the div's with class="col-md-6" around inside
-     the div's with class="row" to balance the multi-column layout.
-
-  This is one of the places where people frequently make mistakes, so
-  please preview your site before committing, and make sure to run
-  'tools/check' as well.
-{% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
 
-<table class="table table-striped">
-<div class="col-md-6">
-<h3 id="syllabus-python">Programming in Python</h3>
-<ul>
-<li>Using libraries</li>
-<li>Working with arrays</li>
-<li>Reading and plotting data</li>
-<li>Creating and using functions</li>
-<li>Loops and conditionals</li>
-<li>Defensive programming</li>
-<li>Using Python from the command line</li>
-<li><a href="{{site.swc_pages}}/python-novice-inflammation/reference/">Reference...</a></li>
-</ul>
-</div>
-</table>
 
+<div class="row">
+  <div class="col-md-6">
+    <h3 id="syllabus-shell">The Unix Shell</h3>
+    <ul>
+      <li>Files and directories</li>
+      <li>History and tab completion</li>
+      <li>Pipes and redirection</li>
+      <li>Looping over files</li>
+      <li>Creating and running shell scripts</li>
+      <li>Finding things</li>
+      <li><a href="{{site.swc_pages}}/shell-novice/reference">Reference...</a></li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <h3 id="syllabus-r">Programming in R</h3>
+    <ul>
+      <li>Working with vectors and data frames</li>
+      <li>Reading, transfroming and plotting data</li>
+      <li>Creating and using functions</li>
+      <li>Loops and conditionals</li>
+      <li><a href="{{site.swc_pages}}/r-novice-inflammation/reference">Reference...</a></li>
+    </ul>
+  </div>
+</div>
 
 <hr/>
 
