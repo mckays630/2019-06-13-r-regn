@@ -103,7 +103,6 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
 <p id="when">
   <strong>When:</strong>
   {{page.humandate}}.
-  {% include workshop_calendar.html %}
 </p>
 {% endif %}
 
@@ -262,7 +261,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
 <div id="R"> 
   <ul>
     <li>
-      We will teach all sections of this workshop using the <a href="https://bioinfo-dev-trial.regeneron.regn.com">R-studio</a>,
+      We will teach all sections of this workshop using an <a href="https://bioinfo-dev-trial.regeneron.regn.com">R-studio Server</a>,
       a programming environment that runs in a web browser. 
     </li>
     <li>
