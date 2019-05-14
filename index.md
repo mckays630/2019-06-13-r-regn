@@ -258,31 +258,18 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
 
 <hr/>
 
-{% comment %}
-  SETUP
-
-  Delete irrelevant sections from the setup instructions.  Each
-  section is inside a 'div' without any classes to make the beginning
-  and end easier to find.
-
-  This is the other place where people frequently make mistakes, so
-  please preview your site before committing, and make sure to run
-  'tools/check' as well.
-{% endcomment %}
-
 <h2 id="setup">Setup</h2>
-<div id="python"> 
+<div id="R"> 
   <ul>
     <li>
-      We will teach all sections of this workshop using the <a href="https://jupyter.org/">Jupyter notebook</a>,
+      We will teach all sections of this workshop using the <a href="https://bioinfo-dev-trial.regeneron.regn.com">R-studio</a>,
       a programming environment that runs in a web browser. 
     </li>
     <li>
-      The current versions of the Chrome, Safari and Firefox browsers are all
-      <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
+      The current versions of the Chrome, Safari and Firefox browsers are all supported
     </li>
     <li>
-      To access Jupyter notebook, point your browser to <a href="https://jupyterhub.regeneron.regn.com">jupyterhub.regeneron.regn.com</a> and log in with your Regeneron credentials
+      To access R-studio, point your browser to <a href="https://bioinfo-dev-trial.regeneron.regn.com">bioinfo-dev-trial.regeneron.regn.com</a> and log in with your Regeneron credentials
     </li>
   </ul>
-</div> {% comment %} End of 'Python' section. {% endcomment %}
+</div>
