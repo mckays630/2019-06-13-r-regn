@@ -178,7 +178,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
       <tr> <th>Time</th><th>Subject</th><th>Instructor</th></tr>
       <tr> <td>9:00</td> <td>Workshop overview</td><td></td></tr>
       <tr> <td>9:10</td> <td><a href="{{site.swc_pages}}/shell-novice/01-intro/">Introduction to the unix shell</a></td><td></td></tr>
-      <tr> <td>9:15</td> <td><a href="{{site.swc_pages}}/shell-novice/02-filedir">Navifating files and directories</a></td><td></td></tr>
+      <tr> <td>9:15</td> <td><a href="{{site.swc_pages}}/shell-novice/02-filedir">Navigating files and directories</a></td><td></td></tr>
       <tr> <td>9:50</td> <td><a href="{{site.swc_pages}}/shell-novice/03-create">Working with files and directories</a></td><td></td></tr>
       <tr> <td>10:30</td> <td>Coffee</td> <td></td></tr>
       <tr> <td>10:45</td> <td><a href="{{site.swc_pages}}/shell-novice/04-pipefilter">Pipes and filters</a></td><td></td></tr>
