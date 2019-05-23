@@ -175,8 +175,8 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
   <div class="col-md-6">
     <h3>Thursday, June 13 Sheldon</h3>
     <table class="table table-striped">
-      <tr> <td>Time</td><td>Subject</td><td>Instructor</td></tr>
-      <tr> <td>9:00</td> <td>Workshop overview</td></tr>
+      <tr> <th>Time</th><th>Subject</th><th>Instructor</th></tr>
+      <tr> <td>9:00</td> <td>Workshop overview</td><td></td></tr>
       <tr> <td>9:10</td> <td><a href="{{site.swc_pages}}/shell-novice/01-intro/">Introduction to the unix shell</a></td><td></td></tr>
       <tr> <td>9:15</td> <td><a href="{{site.swc_pages}}/shell-novice/02-filedir">Navifating files and directories</a></td><td></td></tr>
       <tr> <td>9:50</td> <td><a href="{{site.swc_pages}}/shell-novice/03-create">Working with files and directories</a></td><td></td></tr>
@@ -185,7 +185,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
       <tr> <td>11:05</td> <td><a href="{{site.swc_pages}}/shell-novice/05-loop">Loops</a></td><td></td></tr>
       <tr> <td>11:45</td> <td>Best practices for programming at Regeneron</td><td></td></tr>
       <tr> <td>12:00</td> <td>Lunch</td><td></td></tr>
-      <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/01-rstudio-intro">Introduction to R and RStudio</a></td> </tr>
+      <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/01-rstudio-intro">Introduction to R and RStudio</a></td><td></td></tr>
       <tr> <td>13:55</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/02-project-intro">Project Management With RStudio</a></td><td></td></tr>
       <tr> <td>14:30</td>  <td>Coffee</td> <td></td></tr>
       <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/03-seeking-help">Seeking Help</a></td><td></td></tr>
@@ -197,11 +197,12 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
   <div class="col-md-6">
     <h3>Friday, June 14</h3>
     <table class="table table-striped">
+      <tr> <th>Time</th><th>Subject</th><th>Instructor</th></tr>
       <tr> <td>9:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/06-data-subsetting">Subsetting Data</a></td><td></td></tr>
       <tr> <td>9:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/07-control-flow">Control Flow</a></td><td></td></tr>
       <tr> <td>10:30</td> <td>Coffee</td> <td></td></tr>
       <tr> <td>10:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/08-plot-ggplot2">Creating Publication-Quality Graphics</a></td><td></td></tr>
-      <tr> <td>12:00</td> <td>Lunch</td></tr>
+      <tr> <td>12:00</td> <td>Lunch</td><td></td></tr>
       <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/09-vectorization">Vectorization</a></td><td></td></tr>
       <tr> <td>13:20</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/10-functions">Functions</a></td><td></td></tr>
       <tr> <td>14:15</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/11-writing-data">Writing Data</a></td><td></td></tr>
