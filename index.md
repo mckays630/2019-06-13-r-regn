@@ -190,7 +190,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
       <tr> <td>14:30</td>  <td>Coffee</td> <td></td></tr>
       <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/03-seeking-help">Seeking Help</a></td><td></td></tr>
       <tr> <td>15:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/04-data-structures-part1">Data Structures</a></td><td></td></tr>
-      <tr> <td>15:55</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/05-data-structures-part2">Exploring Data Frames</a></td><td></td></tr>
+      <tr> <td>15:55</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/05-data-structures-part2">Exploring Data Frames</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
       <tr> <td>16:30</td>  <td>Wrap-up</td> <td></td></tr>
     </table>
   </div>
@@ -203,7 +203,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
       <tr> <td>10:30</td> <td>Coffee</td> <td></td></tr>
       <tr> <td>10:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/08-plot-ggplot2">Creating Publication-Quality Graphics</a></td><td></td></tr>
       <tr> <td>12:00</td> <td>Lunch</td><td></td></tr>
-      <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/09-vectorization">Vectorization</a></td><td></td></tr>
+      <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/09-vectorization">Vectorization</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
       <tr> <td>13:20</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/10-functions">Functions</a></td><td></td></tr>
       <tr> <td>14:15</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/11-writing-data">Writing Data</a></td><td></td></tr>
       <tr> <td>14:30</td>  <td>Coffee</td> <td></td></tr>
