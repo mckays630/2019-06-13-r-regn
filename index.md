@@ -207,8 +207,9 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
       <tr> <td>13:20</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/10-functions">Functions</a></td><td></td></tr>
       <tr> <td>14:15</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/11-writing-data">Writing Data</a></td><td></td></tr>
       <tr> <td>14:30</td>  <td>Coffee</td> <td></td></tr>
-      <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/12-plyr">Splitting and Combining Data Frames with plyr</a></td><td></td></tr>
-      <tr> <td>15:30</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/13-dplyr">Dataframe Manipulation with dplyr</a></td><td></td></tr>
+      <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/12-plyr">Splitting and Combining Data Frames with plyr</a></td><td>Suggest to replace this one with dplyr and tidyr chapters</td></tr>
+      <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/13-dplyr">Dataframe Manipulation with dplyr</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
+      <tr> <td>15:30</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/13-dplyr">Dataframe Manipulation with tidyr</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>      
       <tr> <td>16:15</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/16-wrap-up">Writing Good Software</a></td><td></td></tr>
       <tr> <td>16:30</td>  <td>End</td><td></td> </tr>
     </table>
