@@ -169,7 +169,7 @@ collaborative_notes: https://pad.carpentries.org/2019-06-13-r-regn
 
 <!--<tr> <td>15:15</td>  <td><a href="{{site.swc_pages}}/python-novice-gapminder/11-lists/">Lists</a></td> </tr>-->
 
-<h2 id="schedule">Schedule</h2>
+<h2 id="schedule">Schedule<br>Room 34-252</h2>
 
 <div class="row">
   <div class="col-md-6">
