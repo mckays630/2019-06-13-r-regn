@@ -176,7 +176,7 @@ The lessons used in the workshop were developed by <a href="http://software-carp
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Thursday, June 13 Sheldon</h3>
+    <h3>Thursday, June 13</h3>
     <table class="table table-striped">
       <tr> <th>Time</th><th>Subject</th><th>Instructor</th></tr>
       <tr> <td>9:00</td> <td>Workshop overview</td><td></td></tr>
