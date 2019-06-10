@@ -186,7 +186,6 @@ The lessons used in the workshop were developed by <a href="http://software-carp
       <tr> <td>10:30</td> <td>Coffee</td> <td></td></tr>
       <tr> <td>10:45</td> <td><a href="{{site.swc_pages}}/shell-novice/04-pipefilter">Pipes and filters</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
       <tr> <td>11:05</td> <td><a href="{{site.swc_pages}}/shell-novice/05-loop">Loops</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
-      <tr> <td>11:45</td> <td>Best practices for programming at Regeneron</td><td>Regis James</td></tr>
       <tr> <td>12:00</td> <td>Lunch</td><td></td></tr>
       <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/01-rstudio-intro">Introduction to R and RStudio</a></td><td>Ravi Pandey</td></tr>
       <tr> <td>13:55</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/02-project-intro">Project Management With RStudio</a></td><td>Ravi Pandey</td></tr>
