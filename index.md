@@ -197,7 +197,7 @@ The lessons used in the workshop were developed by <a href="http://software-carp
       <tr> <td>14:30</td>  <td>Coffee</td> <td></td></tr>
       <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/03-seeking-help">Seeking Help</a></td><td>Ravi Pandey</td></tr>
       <tr> <td>15:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/04-data-structures-part1">Data Structures</a></td><td>Ravi Pandey</td></tr>
-      <tr> <td>15:55</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/05-data-structures-part2">Exploring Data Frames</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
+      <tr> <td>15:55</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/05-data-structures-part2">Exploring Data Frames</a></td><td><td>Ravi Pandey</td></tr>
       <tr> <td>16:30</td>  <td>Wrap-up</td> <td></td></tr>
     </table>
   </div>
@@ -211,13 +211,12 @@ The lessons used in the workshop were developed by <a href="http://software-carp
       <tr> <td>10:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/08-plot-ggplot2">Creating Publication-Quality Graphics</a></td><td>Ravi Pandey</td></tr>
       <tr> <td>12:00</td> <td>Lunch</td><td></td></tr>
       <tr> <td>13:00</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/09-vectorization">Vectorization</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
-      <tr> <td>13:20</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/10-functions">Functions</a></td><td></td></tr>
-      <tr> <td>14:15</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/11-writing-data">Writing Data</a></td><td></td></tr>
+      <tr> <td>13:20</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/10-functions">Functions</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
+      <tr> <td>14:15</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/11-writing-data">Writing Data</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
       <tr> <td>14:30</td>  <td>Coffee</td> <td></td></tr>
-      <!--<tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/12-plyr">Splitting and Combining Data Frames with plyr</a></td><td>Suggest to replace this one with dplyr and tidyr chapters</td></tr>-->
       <tr> <td>14:45</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/13-dplyr">Dataframe Manipulation with dplyr</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
       <tr> <td>15:30</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/13-dplyr">Dataframe Manipulation with tidyr</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>      
-      <tr> <td>16:15</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/16-wrap-up">Writing Good Software</a></td><td></td></tr>
+      <tr> <td>16:15</td>  <td><a href="{{site.swc_pages}}/r-novice-gapminder/16-wrap-up">Writing Good Software</a></td><td><a href="https://twitter.com/sbamin">Samir Amin</a></td></tr>
       <tr> <td>16:30</td>  <td>End</td><td></td> </tr>
     </table>
   </div>
